@@ -1,0 +1,367 @@
+.navbar{
+    background-color: #BBDEFB !important;
+}      
+.navbar-text{
+  color: #fff !important;
+  font-weight: bold !important;
+  font-size: 15px;
+}                                
+
+.main-heading{
+  margin-top: 10%;
+  text-align: center;
+  font-weight: 900;
+  font-style: normal;
+  text-shadow: 5px 5px 10px grey;
+}
+
+h2{
+  color:#000000;
+  text-shadow: 2px 2px 4px grey;
+}
+
+.more{
+  margin-bottom: 100px;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+.text{
+  background-color:#fff;
+  justify-content: center;
+}
+.heading{
+  padding: 40px; 
+  font-weight: 1000px;
+  font-style: normal;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+  font-size: 100px;
+  text-shadow: 5px 5px 4px gray ;                       
+}
+
+.sidepic{
+  width: 200px;
+  height: 400px;
+}    
+  
+.about_text {
+  margin-top: 20%;
+}
+
+.about_image>img {
+  margin-top: 30%;
+  height: 100%;
+  width: 100%;
+  /* border-radius: 20px;                                            */
+}
+.btn{
+      color: #fff;
+      background-color: darkblue;
+      margin-top: 5px;
+      align-items: center;
+}
+.fa-book , .fa-bullhorn , .fa-bookmark-o , .fa-pencil-square-o{
+  font-size: 40px;
+}
+.card{
+  align-items: center;
+  margin:10px 10px 10px 10px;
+  height: 280px;
+  width: 200%;
+  align-items: center;
+  margin: 50px;
+  box-shadow: 2px 2px 5px rgb(121, 119, 119);
+  color: white;
+}
+.card-row{
+  align-items: center;
+  display: flex;
+  justify-content: space-evenly;
+}
+.main{
+   /* border-style: solid; */
+   background-color: #EEEEEE;
+}
+
+.fa-facebook , .fa-whatsapp , .fa-twitter , .fa-instagram{
+  color:  #fff;
+}
+.fa-map-marker , .fa-envelope-o , .fa-phone , .fa-globe{
+  color: #fff;
+}
+
+
+
+
+
+
+
+
+  /*=================== about =================== */
+
+
+
+.about{
+  font-size: 100px;
+  font-weight: bold;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  height: 160px;
+  margin-left: 30px;
+}
+.abt{
+  background-color: #00897B !important;
+  color: #fff; 
+  margin-bottom: 0%;
+}
+
+.navbar-2{
+ color: #fff;
+ background-color: #0288D1 !important;
+}
+.align-left{
+  border-style: groove;
+  border-color: #00897B;
+  /* align:left; */
+}
+img.align-left {
+  float: left;
+  margin-right: 20px;
+}
+
+img.align-right {
+  float: right;
+  /* margin: 200px 200px 200px 200px; */
+}
+
+img.medium {
+  width: 500px;
+  height: 300px;
+}
+.row {
+  margin: 30px 20px 10px 20px !important;
+}
+.bar{
+  font-size: 47px;
+  font-weight: bolder;
+  color: #1E88E5;
+  text-shadow: 5px 5px 4px #c2b7b7; 
+}
+.row-2{
+  background-color: #00897B;
+  color: #fff;
+  /* box-shadow: 8px 8px 10px rgb(14, 13, 13); */
+}
+.our{
+  font-size:60px ;
+  text-shadow:  8px 8px 7px black ;
+  margin: 30px 20px 10px 20px;
+  
+}
+.mode{
+  margin: 30px 20px 10px 20px;
+  height: 550px;
+  font-size: 40px;
+  font-family: serif;
+}
+/* .row-2a{
+  border: solid black;
+} */
+.para{
+  margin-left: 30px;
+  margin-bottom: 50px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.vision{
+   font-size: 60px;
+   margin-top: 30px;
+   margin-bottom: 20px;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   font-size: 40px;
+   text-shadow:  4px 4px 5px grey ;
+}
+
+
+  /*========= about ended==== */
+
+
+
+
+
+
+
+
+
+
+
+
+  /* =========admission================ */
+
+
+
+
+
+
+
+
+
+
+.about-admission{
+ font-size: 80px;
+ font-weight: bold;
+ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ height: 150px;
+ margin-left: 30px;
+ margin-bottom: 0%;
+}
+
+
+.main-box{
+  margin-top: 0%;
+  background-color: #1A237E;
+  text-align: center;
+  color: #fff;
+}
+.icon-1{
+  padding-bottom: 20px;
+}
+.row-3{
+  font-size: 20px; 
+  margin-bottom: 50px;
+
+}
+.fa-calendar , .fa-file , .fa-check-square-o , .fa-users  , .fa-university {
+  font-size: 50px;
+  color: #BBDEFB;
+}
+.txt-3 , .txt-3a{
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.icon-second{
+  margin-top: 80px;
+}
+.main-box-a{
+  padding: 100px;
+}
+.txt-3b{
+  /* padding-top: 200px; */
+  /* margin: 30px 30px; */
+  /* color: #EEEEEE; */
+  
+}
+.row-3b{
+  margin: 50px 50px 50px 30px;
+   color: #EEEEEE;
+   padding:50px 50px 50px 50px;
+   background-color: #616161;
+  border-radius: 10px;
+  font-size: 25px;
+  font-weight: bold;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+.table-3{
+  margin: 30px 30px 30px 30px ;
+  font-family: sans-serif;
+
+}
+
+
+
+
+
+
+/* =========admission ========== */
+
+
+
+
+/* =========contact ============ */
+
+
+
+
+.form-heading{
+  color: #1A237E;
+  font-size: 50px;
+  font-size: bold;
+  text-align: center;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px; 
+  border: 1px soliD #1A237E;
+  border-radius: 4px; 
+  box-sizing: border-box; 
+  margin-top: 6px; 
+  margin-bottom:4px;
+  resize: vertical 
+}
+
+
+input[type=submit] {
+  background-color: #4CAF50;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
+
+.container-4 , .form-control{
+   margin: 30px;
+    padding: 40PX;
+    font-size: 20PX;
+    color: black;
+    background-color: #CCC;
+}
+.form-control{
+    background-color: #EEEEEE ;
+  margin-left:-5px ;
+  color: #000000;
+}
+
+
+/* =========contact============= */
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 1106px) {
+  .about{
+    font-size: 50px;
+  }
+  .main-box{
+      font-size: 20px;
+  }
+  .mode{
+      font-size: 15px;
+  }
+     img.align-left{
+         height: 200px;
+         width: 200px;
+         font-size: 20px;
+     }
+  
+}
+
+
